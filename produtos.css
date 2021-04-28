@@ -79,5 +79,16 @@ nav a:hover{
 
 .descricao{
     font-size: 18px;
-    
+}
+
+footer{
+    text-align: center;
+    background-image: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color:#CCCCCC;
+    font-size: 13px;
+    margin-top: 20px;
 }
