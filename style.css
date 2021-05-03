@@ -1,3 +1,7 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* estilo do cabeçalho */
 header{
     background: #CCCCCC;
@@ -46,6 +50,7 @@ nav a:hover{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 
 .principal p{
@@ -62,6 +67,12 @@ nav a:hover{
 
 .imagem-beneficios{
     width: 60%;
+}
+
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
 /* fim do conteúdo da página principal */
 
